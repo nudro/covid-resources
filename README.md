@@ -10,6 +10,12 @@ Ongoing list of covid-19 models, visualizations
 - Software Catalog - Listing of software created by community members, with documented metadata. (Click on a software name to open the software webpage.)
 3. Chinese nCov Memory -  Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating) https://github.com/2019ncovmemory/nCovMemory, About - https://qz.com/1811018/chinese-citizens-use-github-to-save-coronavirus-memories/ here: https://2019ncovmemory.github.io/nCovMemory/
 4. Raw data in Wuhan, Hubei, and Guangzhou for serious COVID-19 cases, and Wuhan hospitalization data - https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data for *Ruoran, Li, Caitlin Rivers, Qi Tan, Megan B Murray, Eric Toner, and Marc Lipsitch. The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities (March 2020).* https://dash.harvard.edu/handle/1/42599304
+5. Google Sheets From DXY.cn Google Sheets - https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451
+6. Kaggle Dataset - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset, Johns Hopkins University has made an excellent dashboard using the affected cases data. Data is extracted from the google sheets associated and made available here.
+7. Nextstrain - https://github.com/nextstrain/ncov - The hCoV-19 / SARS-CoV-2 genomes were generously shared via GISAID. We gratefully acknowledge the Authors, Originating and Submitting laboratories of the genetic sequence and metadata made available through GISAID on which this research is based. For a full list of attributions please see the metadata file.
+8. ECDC Download today’s data on the geographic distribution of COVID-19 cases worldwide - https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+9. BNO - https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+
 
 
 # Visualizations - Maps, Descriptive Charts, Dashboards
@@ -45,10 +51,8 @@ Ongoing list of covid-19 models, visualizations
 19. Vox - 11 coronavirus pandemic charts - https://www.vox.com/future-perfect/2020/3/12/21172040/coronavirus-covid-19-virus-charts
 20. Early Alert - https://early-alert.maps.arcgis.com/apps/opsdashboard/index.html#/20bfbf89c8e74c0494c90b1ae0fa7b78
 21. EpiRisk -  http://epirisk.net/#eyJxdWVyeSI6eyJ0cmF2ZWxMZXZlbCI6MSwicGVyaW9kIjoxMCwidG90YWxDYXNlcyI6MzEyMDAsImRpc3RyaWJ1dGlvbk1vZGUiOiJ1bmlmb3JtIiwibW9udGgiOiJKYW4iLCJnZW9MZXZlbCI6ImJhc2luIiwic291cmNlcyI6W3siaWQiOjQ3NywiY2FzZXMiOjF9XX0sIm1hcCI6eyJjZW50ZXIiOlsxNDguMzUxMDAyNzk3Mzk1NzIsMzEuOTYyMDM3NzEzMjQ4MzM2XSwiem9vbSI6MiwicGl0Y2giOjAsImJlYXJpbmciOjB9fQ==
-
-
-
-
+22. WorldoMeters- https://www.worldometers.info/coronavirus/
+23. Covid2019app Live Site - https://covid2019app.live/
 
 
 # models
@@ -79,14 +83,14 @@ Ongoing list of covid-19 models, visualizations
 |  22 | Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand - https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf | Here we present the results of epidemiological modelling which has informed policymaking in the UK and other countries in recent weeks. | Imperial College COVID-19 Response Team, Neil M Ferguson et al.
 |  23 | *Li, Ruiyun, et al. "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)." Science (2020)* https://science.sciencemag.org/content/early/2020/03/13/science.abb3221  | Here we use observations of reported infection within China, in conjunction with mobility data, a networked dynamic metapopulation model and Bayesian inference, to infer critical epidemiological characteristics associated with SARS-CoV2, including the fraction of undocumented infections and their contagiousness. | Li, Ruiyun, et al
 |  24 | *Chan, Jasper Fuk-Woo, et al. "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster." The Lancet 395.10223 (2020): 514-523.* https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext?fbclid=IwAR1YTPBtlNUrZRvcE9sSBnOzJTOUR8sVK4nc54le5k4xXF3_WvjSuKW5BBU  | In this study, we report the epidemiological, clinical, laboratory, radiological, and microbiological findings of five patients in a family cluster who presented with unexplained pneumonia after returning to Shenzhen, Guangdong province, China, after a visit to Wuhan, and an additional family member who did not travel to Wuhan. | Chan, et al.
-|  25 | *Wu, Peng, et al. "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020." Eurosurveillance 25.3 (2020).* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6988272/#!po=31.2500  | A novel coronavirus (2019-nCoV) causing severe acute respiratory disease emerged recently in Wuhan, China. Information on reported cases strongly indicates human-
-to-human spread, and the most recent information is increasingly indicative of sustained human-to-human transmission. | Wu, et al. 
-|  26 | Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China (25 January 2020) - https://www.worldpop.org/events/china  | We used de-identified and aggregated domestic population movement data from
-2013 to 2015, derived from Baidu Location-Based Services (LBS), and international air travel data in 2018, obtained from the International Air Transport Association (IATA), to explore patterns of mobility of travellers from Wuhan to
-other cities in China, and inform the risk of 2019-nCoV spreading across and beyond the country during the Lunar New Year migration. | Shengjie Lai, et al.
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
+|  25 | *Wu, Peng, et al. "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020." Eurosurveillance 25.3 (2020).* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6988272/#!po=31.2500  | Information on reported cases strongly indicates human 
+to human spread, and the most recent information is increasingly indicative of sustained human to human transmission. | Wu, et al. 
+|  26 | Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China 25 January 2020 - https://www.worldpop.org/events/china  | We used de-identified and aggregated domestic population movement data from
+2013 to 2015, derived from Baidu Location Based Services (LBS), and international air travel data in 2018, obtained from the International Air Transport Association (IATA), to explore patterns of mobility of travellers from Wuhan to
+other cities in China, and inform the risk of 2019 nCoV spreading across and beyond the country during the Lunar New Year migration. | Shengjie Lai, et al.
+|  27 | R library (coronavirus) - https://ramikrispin.github.io/coronavirus/  | Github repo is here https://github.com/RamiKrispin/coronavirus | @RamiKrispin
+|  28 | Innophore - protein modeling https://innophore.com/2019-ncov/  | Validating the protease sequence | Innophore
+|  29 | Wuhan coronavirus 2019-nCoV protease homology model - https://3dprint.nih.gov/discover/3DPX-012867| | Homolgy model by Phyre2 of the Wuhan coronavirus 2019-nCoV protease.  Published by Innophore: https://innophore.com/2019-ncov From a PDB file in the PyMol session linked in that article.| NIH 
 |  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
 |  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
 |  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
