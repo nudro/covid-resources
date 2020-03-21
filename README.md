@@ -85,22 +85,15 @@ Ongoing list of covid-19 models, visualizations
 |  24 | *Chan, Jasper Fuk-Woo, et al. "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster." The Lancet 395.10223 (2020): 514-523.* https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext?fbclid=IwAR1YTPBtlNUrZRvcE9sSBnOzJTOUR8sVK4nc54le5k4xXF3_WvjSuKW5BBU  | In this study, we report the epidemiological, clinical, laboratory, radiological, and microbiological findings of five patients in a family cluster who presented with unexplained pneumonia after returning to Shenzhen, Guangdong province, China, after a visit to Wuhan, and an additional family member who did not travel to Wuhan. | Chan, et al.
 |  25 | *Wu, Peng, et al. "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020." Eurosurveillance 25.3 (2020).* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6988272/#!po=31.2500  | Information on reported cases strongly indicates human 
 to human spread, and the most recent information is increasingly indicative of sustained human to human transmission. | Wu, et al. 
-|  26 | Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China 25 January 2020 - https://www.worldpop.org/events/china  | We used de-identified and aggregated domestic population movement data from
+|  26 | Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China 25 January 2020  https://www.worldpop.org/events/china  | We used deidentified and aggregated domestic population movement data from
 2013 to 2015, derived from Baidu Location Based Services (LBS), and international air travel data in 2018, obtained from the International Air Transport Association (IATA), to explore patterns of mobility of travellers from Wuhan to
 other cities in China, and inform the risk of 2019 nCoV spreading across and beyond the country during the Lunar New Year migration. | Shengjie Lai, et al.
-|  27 | R library (coronavirus) - https://ramikrispin.github.io/coronavirus/  | Github repo is here https://github.com/RamiKrispin/coronavirus | @RamiKrispin
-|  28 | Innophore - protein modeling https://innophore.com/2019-ncov/  | Validating the protease sequence | Innophore
-|  29 | Wuhan coronavirus 2019-nCoV protease homology model - https://3dprint.nih.gov/discover/3DPX-012867| | Homolgy model by Phyre2 of the Wuhan coronavirus 2019-nCoV protease.  Published by Innophore: https://innophore.com/2019-ncov From a PDB file in the PyMol session linked in that article.| NIH 
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
+|  27 | R library (coronavirus)  https://ramikrispin.github.io/coronavirus/  | Github repo is here https://github.com/RamiKrispin/coronavirus | @RamiKrispin
+|  28 | Innophore  protein modeling https://innophore.com/2019-ncov/  | Validating the protease sequence | Innophore
+|  29 | Wuhan coronavirus 2019-nCoV protease homology model - https://3dprint.nih.gov/discover/3DPX-012867| | Homolgy model by Phyre2 of the Wuhan coronavirus 2019-nCoV protease, https://innophore.com/2019-ncov From a PDB file in the PyMol session linked in that article.| NIH 
 
 
-#Channels and Social Media
+# Channels and Social Media
 1. Covid-2019 Reddit Map Community - https://www.reddit.com/r/CovidMapping/
 
 
