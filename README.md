@@ -15,8 +15,7 @@ Ongoing list of covid-19 models, visualizations
 7. Nextstrain - https://github.com/nextstrain/ncov - The hCoV-19 / SARS-CoV-2 genomes were generously shared via GISAID. We gratefully acknowledge the Authors, Originating and Submitting laboratories of the genetic sequence and metadata made available through GISAID on which this research is based. For a full list of attributions please see the metadata file.
 8. ECDC Download today’s data on the geographic distribution of COVID-19 cases worldwide - https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 9. BNO - https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-
-
+10. CDC - https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html
 
 # Visualizations - Maps, Descriptive Charts, Dashboards
 1. Mapping 2019-nCoV - https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext (Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect Dis; published online Feb 19. https://doi.org/10.1016/S1473-3099(20)30120-1), uses ArcGIS
@@ -53,6 +52,7 @@ Ongoing list of covid-19 models, visualizations
 21. EpiRisk -  http://epirisk.net/#eyJxdWVyeSI6eyJ0cmF2ZWxMZXZlbCI6MSwicGVyaW9kIjoxMCwidG90YWxDYXNlcyI6MzEyMDAsImRpc3RyaWJ1dGlvbk1vZGUiOiJ1bmlmb3JtIiwibW9udGgiOiJKYW4iLCJnZW9MZXZlbCI6ImJhc2luIiwic291cmNlcyI6W3siaWQiOjQ3NywiY2FzZXMiOjF9XX0sIm1hcCI6eyJjZW50ZXIiOlsxNDguMzUxMDAyNzk3Mzk1NzIsMzEuOTYyMDM3NzEzMjQ4MzM2XSwiem9vbSI6MiwicGl0Y2giOjAsImJlYXJpbmciOjB9fQ==
 22. WorldoMeters- https://www.worldometers.info/coronavirus/
 23. Covid2019app Live Site - https://covid2019app.live/
+24. Here’s how coronavirus spreads on a plane—and the safest place to sit - https://www.nationalgeographic.com/science/2020/01/how-coronavirus-spreads-on-a-plane/
 
 
 # models
@@ -86,12 +86,13 @@ Ongoing list of covid-19 models, visualizations
 |  25 | R library (coronavirus)  https://ramikrispin.github.io/coronavirus/  | Github repo is here https://github.com/RamiKrispin/coronavirus | @RamiKrispin
 |  26 | Innophore  protein modeling https://innophore.com/2019-ncov/  | Validating the protease sequence | Innophore
 |  27 | Wuhan coronavirus 2019-nCoV protease homology model - https://3dprint.nih.gov/discover/3DPX-012867| | Homolgy model by Phyre2 of the Wuhan coronavirus 2019-nCoV protease, https://innophore.com/2019-ncov From a PDB file in the PyMol session linked in that article.| NIH 
-|  28 | *Wu, Peng, et al. "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020." Eurosurveillance 25.3 (2020).* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6988272/#!po=31.2500  | Information on reported cases strongly indicates human 
-to human spread, and the most recent information is increasingly indicative of sustained human to human transmission. | Wu, et al. 
-|  29 | Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China 25 January 2020  https://www.worldpop.org/events/china  |  ...explore patterns of mobility of travellers from Wuhan to
-other cities in China, and inform the risk of 2019 nCoV spreading across and beyond the country during the Lunar New Year migration. | Shengjie Lai, et al.
+|28| Coronavirus Simulator - https://www.washingtonpost.com/graphics/2020/world/corona-simulator/ |  | Harry Stevens, Washington Post
+|29| The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak - https://science.sciencemag.org/content/early/2020/03/05/science.aba9757 | Motivated by the rapid spread of COVID-19 in Mainland China, we use a global metapopulation disease transmission model to project the impact of travel limitations on the national and international spread of the epidemic. | Chinazzi, et al
+|30| Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia - https://www.nejm.org/doi/full/10.1056/NEJMoa2001316 | We analyzed data on the first 425 confirmed cases in Wuhan to determine the epidemiologic characteristics of NCIP. | Qun Li, et al
 
 # Channels and Social Media
 1. Covid-2019 Reddit Map Community - https://www.reddit.com/r/CovidMapping/
+2. Coronavirus: Why You Must Act Now - https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
+3. Estimating the Number of Future Coronavirus Cases in the United States - https://towardsdatascience.com/estimating-the-number-of-future-coronavirus-cases-in-the-united-states-a0ce17df029a
 
 
