@@ -12,7 +12,7 @@ Ongoing list of covid-19 models, visualizations
 4. Raw data in Wuhan, Hubei, and Guangzhou for serious COVID-19 cases, and Wuhan hospitalization data - https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data for *Ruoran, Li, Caitlin Rivers, Qi Tan, Megan B Murray, Eric Toner, and Marc Lipsitch. The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities (March 2020).* https://dash.harvard.edu/handle/1/42599304
 
 
-# visualizations
+# Visualizations - Maps, Descriptive Charts, Dashboards
 1. Mapping 2019-nCoV - https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext (Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect Dis; published online Feb 19. https://doi.org/10.1016/S1473-3099(20)30120-1), uses ArcGIS
 <img src='mapping_03202020.png' width=300></img>
 2.  Covid-19 Dashboards - https://covid19dashboards.com/, Github https://github.com/github/covid19-dashboard
@@ -42,7 +42,9 @@ Ongoing list of covid-19 models, visualizations
 16. COVID19 Infodemics Observatory - https://covid19obs.fbk.eu/, CoMuNe Labs
 17. Bing COVID Tracker - https://www.bing.com/covid
 18. E-Tracking map of the #CoViD19 in Africa - http://umap.openstreetmap.fr/fr/map/e-tracking-map-of-the-covid19-in-africa_411333#3/10.13/45.34
-19. 
+19. Vox - 11 coronavirus pandemic charts - https://www.vox.com/future-perfect/2020/3/12/21172040/coronavirus-covid-19-virus-charts
+20. Early Alert - https://early-alert.maps.arcgis.com/apps/opsdashboard/index.html#/20bfbf89c8e74c0494c90b1ae0fa7b78
+21. EpiRisk -  http://epirisk.net/#eyJxdWVyeSI6eyJ0cmF2ZWxMZXZlbCI6MSwicGVyaW9kIjoxMCwidG90YWxDYXNlcyI6MzEyMDAsImRpc3RyaWJ1dGlvbk1vZGUiOiJ1bmlmb3JtIiwibW9udGgiOiJKYW4iLCJnZW9MZXZlbCI6ImJhc2luIiwic291cmNlcyI6W3siaWQiOjQ3NywiY2FzZXMiOjF9XX0sIm1hcCI6eyJjZW50ZXIiOlsxNDguMzUxMDAyNzk3Mzk1NzIsMzEuOTYyMDM3NzEzMjQ4MzM2XSwiem9vbSI6MiwicGl0Y2giOjAsImJlYXJpbmciOjB9fQ==
 
 
 
@@ -52,7 +54,7 @@ Ongoing list of covid-19 models, visualizations
 # models
 
 | Num  | Model/Link             | Description                           | Authors     |
-| :--- | -----------------------|---------------------------------------| ------------| 
+| --- | ------------------------|---------------------------------------| ------------| 
 |  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | We assume a negative binomial likelihood as we are dealing with count data. A Poisson could also be used but the negative binomial allows us to also model the variance separately to give more flexibility. | Thomas Wiecki, @HamelHusain
 |  2 | Estimating The Mortality Rate For COVID-19 - https://covid19dashboards.com/covid-19-mortality-estimation/#Interpretation-of-Country-Level-Parameters  | Using Country-Level Covariates To Correct For Testing & Reporting Biases And Estimate a True Mortality Rate. (Github model: https://github.com/jwrichar/COVID19-mortality) | @HamelHusain, @jwrichar
 |  3 | NobBS: Nowcasting by Bayesian Smoothing - https://github.com/sarahhbellum/NobBS  | NobBS is Bayesian approach to estimate the number of occurred-but-not-yet-reported cases from incomplete, time-stamped reporting data for disease outbreaks. NobBS learns the reporting delay distribution and the time evolution of the epidemic curve to produce smoothed nowcasts in both stable and time-varying case reporting settings. | sarahhbellum
@@ -74,13 +76,14 @@ Ongoing list of covid-19 models, visualizations
 |  19 | Phylodynamic Analysis - http://virological.org/  | Novel 2019 coronavirus category| virological
 |  20 | Genomic epidemiology of hCoV-19 - https://www.gisaid.org/epiflu-applications/next-hcov-19-app/ | Showing 838 of 838 genomes sampled between Dec 2019 and Mar 2020.| GISAID
 |  21 | Don’t “Flatten the Curve,” squash it!, with simulations Modeling COVID-19 Spread vs Healthcare Capacity - https://alhill.shinyapps.io/COVID19seir/?fbclid=IwAR2aXJT79M2AmZxMdy8jsiEuSC4i7ijU8Av6oB4dmlZIeJ2VQgL7Tt3QGxA | The graph shows the expected numbers of individuals over time who are infected, recovered, susceptible, or dead over time. Infected individuals first pass through an exposed/incubation phase where they are asymptomatic and not infectious, and then move into a symptomatic and infections stage classified by the clinical status of infection (mild, severe, or critical).  | Alison Hill, Joscha Bach
-|  22 | Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand - https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf | Here we present the results of epidemiological modelling which has informed policymaking in the UK and other countries in recent weeks. In the absence of a COVID-19 vaccine, we assess the potential role of a number of
-public health measures – so-called non-pharmaceutical interventions (NPIs) – aimed at reducing
-contact rates in the population and thereby reducing transmission of the virus. | Imperial College COVID-19 Response Team, Neil M Ferguson et al.
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
-|  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
+|  22 | Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand - https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf | Here we present the results of epidemiological modelling which has informed policymaking in the UK and other countries in recent weeks. | Imperial College COVID-19 Response Team, Neil M Ferguson et al.
+|  23 | *Li, Ruiyun, et al. "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)." Science (2020)* https://science.sciencemag.org/content/early/2020/03/13/science.abb3221  | Here we use observations of reported infection within China, in conjunction with mobility data, a networked dynamic metapopulation model and Bayesian inference, to infer critical epidemiological characteristics associated with SARS-CoV2, including the fraction of undocumented infections and their contagiousness. | Li, Ruiyun, et al
+|  24 | *Chan, Jasper Fuk-Woo, et al. "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster." The Lancet 395.10223 (2020): 514-523.* https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext?fbclid=IwAR1YTPBtlNUrZRvcE9sSBnOzJTOUR8sVK4nc54le5k4xXF3_WvjSuKW5BBU  | In this study, we report the epidemiological, clinical, laboratory, radiological, and microbiological findings of five patients in a family cluster who presented with unexplained pneumonia after returning to Shenzhen, Guangdong province, China, after a visit to Wuhan, and an additional family member who did not travel to Wuhan. | Chan, et al.
+|  25 | *Wu, Peng, et al. "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020." Eurosurveillance 25.3 (2020).* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6988272/#!po=31.2500  | A novel coronavirus (2019-nCoV) causing severe acute respiratory disease emerged recently in Wuhan, China. Information on reported cases strongly indicates human-
+to-human spread, and the most recent information is increasingly indicative of sustained human-to-human transmission. | Wu, et al. 
+|  26 | Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China (25 January 2020) - https://www.worldpop.org/events/china  | We used de-identified and aggregated domestic population movement data from
+2013 to 2015, derived from Baidu Location-Based Services (LBS), and international air travel data in 2018, obtained from the International Air Transport Association (IATA), to explore patterns of mobility of travellers from Wuhan to
+other cities in China, and inform the risk of 2019-nCoV spreading across and beyond the country during the Lunar New Year migration. | Shengjie Lai, et al.
 |  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
 |  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
 |  1 | COVID-19 Growth Rate Prediction - https://covid19dashboards.com/growth-bayes/   | XYZ |
