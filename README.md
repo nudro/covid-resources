@@ -249,9 +249,7 @@ There are a variety of papers being published every day. Check out the below to 
 
 2. ***Xu, Xiaowei, et al. "Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia." arXiv preprint arXiv:2002.09334 (2020).*** - https://arxiv.org/pdf/2002.09334.pdf <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/dl-cv-green"></img>
 
-<<<<<<< HEAD
-3. ***Chen, Jun, et al. "Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study." medRxiv (2020).*** - https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/dl-cv-green"></img>
-=======
+
 3. *Chen, Jun, et al. "Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study." medRxiv (2020).* - https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/dl-cv-green"></img>
 
 
