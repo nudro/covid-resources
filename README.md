@@ -31,7 +31,7 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 
 3. **Chinese nCov Memory -  Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)** https://github.com/2019ncovmemory/nCovMemory, About - https://qz.com/1811018/chinese-citizens-use-github-to-save-coronavirus-memories/ here: https://2019ncovmemory.github.io/nCovMemory/ <img src="https://img.shields.io/badge/data-noneng-lightgray"/></img>
 
-4. **Raw data in Wuhan, Hubei, and Guangzhou for serious COVID-19 cases, and Wuhan hospitalization data** - https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data for *Ruoran, Li, Caitlin Rivers, Qi Tan, Megan B Murray, Eric Toner, and Marc Lipsitch. The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities (March 2020).* https://dash.harvard.edu/handle/1/42599304 <img src="https://img.shields.io/badge/data-published-9cf"></img> <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/sm-thread-blue"></img>
+4. **Raw data in Wuhan, Hubei, and Guangzhou for serious COVID-19 cases, and Wuhan hospitalization data** - https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data for *Ruoran, Li, Caitlin Rivers, Qi Tan, Megan B Murray, Eric Toner, and Marc Lipsitch. The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities (March 2020).* https://dash.harvard.edu/handle/1/42599304; data at https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data <img src="https://img.shields.io/badge/data-published-9cf"></img> <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/sm-thread-blue"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
 
 5. **Google Sheets From DXY.cn Google Sheets** - https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451 <img src="https://img.shields.io/badge/data-global-yellowgreen"></img>
 
@@ -217,7 +217,7 @@ China. The cumulative data can be fit to an empirical form obtained from a Susce
 
 # Link to Journals via Google Scholar <a name="journals"/>
 There are a variety of papers being published every day. Check out the below to keep up to date with the latest articles.
-
+- Digital Access to Scholarship for Harvard (DASH) - https://dash.harvard.edu/handle/1/42599304
 - CDC - https://www.cdc.gov/coronavirus/2019-ncov/publications.html
 - NEJM - https://www.nejm.org/coronavirus
 - JAMA - https://jamanetwork.com/journals/jama/pages/coronavirus-alert
@@ -250,10 +250,9 @@ There are a variety of papers being published every day. Check out the below to 
 2. ***Xu, Xiaowei, et al. "Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia." arXiv preprint arXiv:2002.09334 (2020).*** - https://arxiv.org/pdf/2002.09334.pdf <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/dl-cv-green"></img>
 
 
-3. *Chen, Jun, et al. "Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study." medRxiv (2020).* - https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/dl-cv-green"></img>
+3. ***Chen, Jun, et al. "Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study." medRxiv (2020).*** - https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/dl-cv-green"></img>
 
 
 **Thanks**:<pr>
 - Badges made using https://shields.io/
 - References: Google Scholar, JHU, Midas, Multiple Twitter Accounts
->>>>>>> 6f6bc906b4ab02555ec37e2e92cd503c5a20bda3
