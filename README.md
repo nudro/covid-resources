@@ -122,7 +122,7 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 27. **COVID-19 Mobility Monitoring project,  ISI Foundation and Cuebiq** - https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html  <img src="https://img.shields.io/badge/data-global-yellowgreen"></img> <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-charts-yellow"></img>
 
-28. **How the Virus Got Out** - <a href="https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html?action=click&amp;auth=login-google1tap&amp;login=google1tap&amp;module=Spotlight&amp;pgtype=Homepage>link here</a> <img src="https://img.shields.io/badge/viz-simul-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+28. **How the Virus Got Out** - <a href="https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html?action=click&amp;auth=login-google1tap&amp;login=google1tap&amp;module=Spotlight&amp;pgtype=Homepage">link here</a> <img src="https://img.shields.io/badge/viz-simul-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 
 # Epi Models <a name="epi"/>
