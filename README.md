@@ -1,13 +1,13 @@
-<center><img src='/imgs/logo.png' width=300></center>
+<center><img src='./imgs/logo.png' width=300></center></img>
 
 # Introduction
 This is an attempt to aggregate as many covid-19 analytical resources online. Ranging from data sources, dashboards, maps, charts, algorithms, and published papers to social media channels and blog posts. If you find a resource not here, please consider contributing by reaching out to  [Catherine](mailto:cordun1@umbc.edu) or [Michael](mailto:mjfagundo@gmail.com), or submitting a pull request.
 
 
-# Table of Contents  
+# Table of Contents
 [Datasets](#datasets)
 
-[Visualizations](#visualizations)  
+[Visualizations](#visualizations)
 
 [Epi Models](#epi)
 
@@ -18,9 +18,8 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 [Deep Learning Models](#dl)
 
 
-
-
 # Datasets <a name="datasets"/>
+
 1. **Novel Coronavirus (COVID-19) Cases, provided by Johns Hopkins University CSSE**  https://github.com/CSSEGISandData/COVID-19 <img src="https://img.shields.io/badge/data-primary-green"></img>
 
 2. **Midas Data and Research Portal** - https://github.com/midas-network/COVID-19 <img src="https://img.shields.io/badge/data-primary-green"/></img>
@@ -213,7 +212,13 @@ Maps, Descriptive Charts, Dashboards<pr>
 43. ***Biswas, Kathakali, Abdul Khaleque, and Parongama Sen. "Covid-19 spread: Reproduction of data and prediction using a SIR model on Euclidean network." arXiv preprint arXiv:2003.07063 (2020).***  - https://arxiv.org/pdf/2003.07063.pdf We study the data for the cumulative as well as daily number of cases in the Covid-19 outbreak in
 China. The cumulative data can be fit to an empirical form obtained from a Susceptible-InfectedRemoved (SIR) model studied on an Euclidean network previously. Plotting the number of cases against the distance from the epicenter for both China and Italy, we find an approximate power law variation with an exponent ∼ 1.85 showing strongly that the spatial dependence plays a key role, a factor included in the model. <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
-44. **COVID-2020 SIR** - https://github.com/amita-kapoor/COVID-2020 @amita-kapoor <img src="https://img.shields.io/badge/-withcode-red"></img> <img src="https://img.shields.io/badge/library-py-9cf"></img>
+44. **COVID-2020 SIR** - https://github.com/amita-kapoor/COVID-2020 @amita-kapoor <img src="https://img.shields.io/badge/-withcode-red"></img> <img src="https://img.shields.io/badge/library-py-9cf"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
+45. **Evidation Health** - https://evidation.com/news/covid-19-pulse-first-data-evidation/ - To understand how Americans are coping with the spread of COVID-19, Evidation Health, the health and measurement company, has launched a nationwide initiative tracking people’s attitudes toward and experiences during the pandemic, alongside their health. Over 140,000 (as of March 22) people from across all 50 states and the District of Columbia have agreed to participate, recruited in less than seven days from the nearly 4 million people who use Evidation’s Achievement app—the largest, most diverse virtual research site in the U.S.  <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
+46. **CoronaTracker: World-wide COVID-19 Outbreak Data Analysis and Prediction
+CoronaTracker Community Research Group**  - https://www.who.int/bulletin/online_first/20-255695.pdf CoronaTracker was born as the online platform that provides latest and reliable news development, as well as statistics and analysis on COVID-19. This paper is done
+by the research team in the CoronaTracker community and aims to predict and forecast COVID19 cases, deaths, and recoveries through predictive modelling. The model helps to interpret patterns of public sentiment on disseminating related health information, and assess political and economic influence of the spread of the virus. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 # Link to Journals via Google Scholar <a name="journals"/>
 There are a variety of papers being published every day. Check out the below to keep up to date with the latest articles.
@@ -242,6 +247,10 @@ There are a variety of papers being published every day. Check out the below to 
 4. https://threadreaderapp.com/thread/1237347774951305216.html, @mlipsitch, with https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data <img src="https://img.shields.io/badge/sm-thread-blue"></img>
 
 5. https://threadreaderapp.com/thread/1238972082756648960.html, @@davidasinclair <img src="https://img.shields.io/badge/sm-thread-blue"></img>
+
+6. *Modelling the coronavirus epidemic in a city with Python* - https://towardsdatascience.com/modelling-the-coronavirus-epidemic-spreading-in-a-city-with-python-babd14d82fa2  <img src="https://img.shields.io/badge/-withcode-red"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
+7. Top 15 R resources on Novel COVID-19 Coronavirus - https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f <img src="https://img.shields.io/badge/library-R-blue"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 # Deep Learning Models <a name="dl"/>
 
