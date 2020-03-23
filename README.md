@@ -220,6 +220,8 @@ China. The cumulative data can be fit to an empirical form obtained from a Susce
 CoronaTracker Community Research Group**  - https://www.who.int/bulletin/online_first/20-255695.pdf CoronaTracker was born as the online platform that provides latest and reliable news development, as well as statistics and analysis on COVID-19. This paper is done
 by the research team in the CoronaTracker community and aims to predict and forecast COVID19 cases, deaths, and recoveries through predictive modelling. The model helps to interpret patterns of public sentiment on disseminating related health information, and assess political and economic influence of the spread of the virus. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+47. **Array Advisors’ Model Validates Fears of ICU Bed Shortage Due to Coronavirus Pandemic** - https://array-architects.com/press-release/array-advisors-model-validates-fears-of-icu-bed-shortage-due-to-coronavirus-pandemic/ Array Advisors has built a model that projects the availability of U.S. hospital beds as the coronavirus pandemic grows. The model validates fears that a shortage of beds may occur unless efforts to expand hospital capacity are implemented immediately. Runnable model in Excel. <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
+
 # Link to Journals via Google Scholar <a name="journals"/>
 There are a variety of papers being published every day. Check out the below to keep up to date with the latest articles.
 - Digital Access to Scholarship for Harvard (DASH) - https://dash.harvard.edu/handle/1/42599304
@@ -248,7 +250,7 @@ There are a variety of papers being published every day. Check out the below to 
 
 5. https://threadreaderapp.com/thread/1238972082756648960.html, @@davidasinclair <img src="https://img.shields.io/badge/sm-thread-blue"></img>
 
-6. *Modelling the coronavirus epidemic in a city with Python* - https://towardsdatascience.com/modelling-the-coronavirus-epidemic-spreading-in-a-city-with-python-babd14d82fa2  <img src="https://img.shields.io/badge/-withcode-red"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+6. **Modelling the coronavirus epidemic in a city with Python** - https://towardsdatascience.com/modelling-the-coronavirus-epidemic-spreading-in-a-city-with-python-babd14d82fa2  <img src="https://img.shields.io/badge/-withcode-red"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/sm-medium-black"></img>
 
 7. Top 15 R resources on Novel COVID-19 Coronavirus - https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f <img src="https://img.shields.io/badge/library-R-blue"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
