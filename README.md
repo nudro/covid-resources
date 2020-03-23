@@ -52,6 +52,8 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 
 14. **The Covid Tracking Project** - https://covidtracking.com/, with real-time API: https://covidtracking.com/api/ <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+15. **COVID Tracking Data (CSV)** https://github.com/COVID19Tracking/covid-tracking-data - Developed by Julia Kodysh. GitHub backup for versioning the contents of our public Google spreadsheet data in CSV format. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 # Visualizations <a name="visualizations"/>
 Maps, Descriptive Charts, Dashboards<pr>
 
