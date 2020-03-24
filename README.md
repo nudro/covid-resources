@@ -126,6 +126,8 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 28. **How the Virus Got Out** - <a href="https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html?action=click&amp;auth=login-google1tap&amp;login=google1tap&amp;module=Spotlight&amp;pgtype=Homepage">link here</a> <img src="https://img.shields.io/badge/viz-simul-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+29. **COVID-19 Scenarios** - https://neherlab.org/covid19/?fbclid=IwAR3yjOLs7zCdT7mI_OpBiB1-1Kgaz1-V8MqpBQZE6dMFiXC46d-8UWUOEQc <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 
 # Epi Models <a name="epi"/>
 
@@ -225,6 +227,10 @@ CoronaTracker Community Research Group**  - https://www.who.int/bulletin/online_
 by the research team in the CoronaTracker community and aims to predict and forecast COVID19 cases, deaths, and recoveries through predictive modelling. The model helps to interpret patterns of public sentiment on disseminating related health information, and assess political and economic influence of the spread of the virus. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 47. **Array Advisors’ Model Validates Fears of ICU Bed Shortage Due to Coronavirus Pandemic** - https://array-architects.com/press-release/array-advisors-model-validates-fears-of-icu-bed-shortage-due-to-coronavirus-pandemic/ Array Advisors has built a model that projects the availability of U.S. hospital beds as the coronavirus pandemic grows. The model validates fears that a shortage of beds may occur unless efforts to expand hospital capacity are implemented immediately. Runnable model in Excel. <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
+
+48. CHIME (COVID-19 Hospital Impact Model for Epidemics) Application - https://github.com/CodeForPhilly/chime - The CHIME (COVID-19 Hospital Impact Model for Epidemics) Application is designed to assist hospitals and public health officials with understanding hospital capacity needs as they relate to the COVID pandemic. CHIME enables capacity planning by providing estimates of total daily (i.e. new) and running totals of (i.e. census) inpatient hospitalizations, ICU admissions, and patients requiring ventilation. These estimates are generated using a SIR (Susceptible, Infected, Recovered) model, a standard epidemiological modeling technique. <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
+
+49. ***Mapping hospital demand: demographics, spatial variation, and the risk of “hospital deserts” during COVID-19 in England and Wales*** - https://osf.io/g8s96/?fbclid=IwAR1hnVIYboDrFL9aZqg-F2js7Bs4JxGf3GT_uYV4KUIApR4kAggP78jsdiE <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/-paper-brightgreen"></img>
 
 # Link to Journals via Google Scholar <a name="journals"/>
 There are a variety of papers being published every day. Check out the below to keep up to date with the latest articles.
