@@ -128,7 +128,7 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 29. **COVID-19 Scenarios** - https://neherlab.org/covid19/?fbclid=IwAR3yjOLs7zCdT7mI_OpBiB1-1Kgaz1-V8MqpBQZE6dMFiXC46d-8UWUOEQc <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
-30. **Kinsa temperature data** https://www.nytimes.com/2019/02/14/health/kinsa-flu-tracking.html - Kinsa's fever map https://techcrunch.com/2020/03/23/kinsas-fever-map-could-show-just-how-crucial-it-is-to-stay-home-to-stop-covid-19-spread/ <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+30. **Kinsa temperature data** https://www.nytimes.com/2019/02/14/health/kinsa-flu-tracking.html - Kinsa's fever map https://techcrunch.com/2020/03/23/kinsas-fever-map-could-show-just-how-crucial-it-is-to-stay-home-to-stop-covid-19-spread/ <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 
 # Epi Models <a name="epi"/>
