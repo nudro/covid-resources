@@ -130,6 +130,10 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 30. **Kinsa temperature data** https://www.nytimes.com/2019/02/14/health/kinsa-flu-tracking.html - Kinsa's fever map https://techcrunch.com/2020/03/23/kinsas-fever-map-could-show-just-how-crucial-it-is-to-stay-home-to-stop-covid-19-spread/ <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+31. **An interactive visualization of the exponential spread of COVID-19** A project to explore the global growth of COVID-19. Updated daily. Inspired by the work of John Burn-Murdoch. - http://91-divoc.com/pages/covid-visualization/ <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
+32. **1point3acres** - https://coronavirus.1point3acres.com/en - <img src="https://img.shields.io/badge/viz-dash-blue"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 
 # Epi Models <a name="epi"/>
 
