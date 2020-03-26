@@ -27,6 +27,7 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 - Parameter Estimates - Peer-reviewed Published estimates of epidemiological characteristics that have been peer-reviewed, encoded by community members and approved by authors. For complete information on each estimate, view this file on GitHub https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv
 - Parameter Estimates - Not peer-reviewed Published estimates of epidemiological characteristics that have not been peer-reviewed, encoded by community members and approved by authors. For complete information on each estimate,https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv
 - Software Catalog - Listing of software created by community members, with documented metadata. (Click on a software name to open the software webpage.)
+- **Multiple** Midas-curated aggregate and individual-level datasets, global - https://github.com/midas-network/COVID-19/wiki/Data-catalog#cases
 
 3. **Chinese nCov Memory -  Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)** https://github.com/2019ncovmemory/nCovMemory, About - https://qz.com/1811018/chinese-citizens-use-github-to-save-coronavirus-memories/ here: https://2019ncovmemory.github.io/nCovMemory/ <img src="https://img.shields.io/badge/data-noneng-lightgray"/></img>
 
