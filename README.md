@@ -54,6 +54,8 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 
 15. **COVID Tracking Data (CSV)** https://github.com/COVID19Tracking/covid-tracking-data - Developed by Julia Kodysh. GitHub backup for versioning the contents of our public Google spreadsheet data in CSV format. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+16. **COVID Post man APIs** - https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiTTJJM1ptVm1NemRtTkRnMiIsInQiOiJpMzc4aFwvRWJvK3RnTnBNNUdRTmRXVEhtRXFUeW4rcmhsNUlVV09TWnVjRnhxOVl0N2NvMUxyQ3BNd2J5YnFTVnQ4aW5xbnlZMVpDVzVQWUtaMjZcL0FNc1ZcL2wrSXpUd1Q0U0F5UTJLdGNpV0c3cVwvRXhrTXBnRWtzejhQMklPZmIifQ%3D%3D - During the present novel coronavirus (COVID-19) pandemic, those on the front lines—including health care professionals, researchers, and government experts—need quick, easy access to real-time critical data. This type of information exchange is what APIs do best, and as an API-first company, Postman is committed to providing whatever assistance we can in this area. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 # Visualizations <a name="visualizations"/>
 Maps, Descriptive Charts, Dashboards<pr>
 
