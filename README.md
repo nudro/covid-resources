@@ -57,6 +57,10 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 
 16. **COVID Post man APIs** - https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiTTJJM1ptVm1NemRtTkRnMiIsInQiOiJpMzc4aFwvRWJvK3RnTnBNNUdRTmRXVEhtRXFUeW4rcmhsNUlVV09TWnVjRnhxOVl0N2NvMUxyQ3BNd2J5YnFTVnQ4aW5xbnlZMVpDVzVQWUtaMjZcL0FNc1ZcL2wrSXpUd1Q0U0F5UTJLdGNpV0c3cVwvRXhrTXBnRWtzejhQMklPZmIifQ%3D%3D - During the present novel coronavirus (COVID-19) pandemic, those on the front lines—including health care professionals, researchers, and government experts—need quick, easy access to real-time critical data. This type of information exchange is what APIs do best, and as an API-first company, Postman is committed to providing whatever assistance we can in this area. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+17. **Smartphone data reveal which Americans are social distancing (and not)** - https://www.washingtonpost.com/technology/2020/03/24/social-distancing-maps-cellphone-location/, data available by UnaCast; data free for non-for-profit groups - https://www.unacast.com/covid19 <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
+18. **Covid Medical Radiology Datasets** https://github.com/ieee8023/covid-chestxray-dataset; https://github.com/lindawangg/COVID-Net by @lindawangg, and https://github.com/ieee8023/covid-chestxray-dataset by @ieee8023 <img src="https://img.shields.io/badge/dl-cv-green"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 # Visualizations <a name="visualizations"/>
 Maps, Descriptive Charts, Dashboards<pr>
 
@@ -137,11 +141,7 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 32. **1point3acres** - https://coronavirus.1point3acres.com/en - <img src="https://img.shields.io/badge/viz-dash-blue"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
-33. **Smartphone data reveal which Americans are social distancing (and not)** - https://www.washingtonpost.com/technology/2020/03/24/social-distancing-maps-cellphone-location/, data available by UnaCast; data free for non-for-profit groups - https://www.unacast.com/covid19 <img src="https://img.shields.io/badge/-NEW-yellow"></img>
-
-34. **Covid Medical Radiology Datasets** https://github.com/ieee8023/covid-chestxray-dataset; https://github.com/lindawangg/COVID-Net by @lindawangg, and https://github.com/ieee8023/covid-chestxray-dataset by @ieee8023 <img src="https://img.shields.io/badge/dl-cv-green"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
-
-35. **Example of State county-by-county TN model** - https://jefferson-county-tn-coronavirus-response-jcgiscb.hub.arcgis.com/app/79afca92fb024131af8322da5fd6ee80 <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+33. **Example of State county-by-county TN model** - https://jefferson-county-tn-coronavirus-response-jcgiscb.hub.arcgis.com/app/79afca92fb024131af8322da5fd6ee80 <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 
 # Epi Models <a name="epi"/>
