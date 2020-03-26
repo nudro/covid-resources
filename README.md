@@ -141,6 +141,8 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 34. **Covid Medical Radiology Datasets** https://github.com/ieee8023/covid-chestxray-dataset; https://github.com/lindawangg/COVID-Net by @lindawangg, and https://github.com/ieee8023/covid-chestxray-dataset by @ieee8023 <img src="https://img.shields.io/badge/dl-cv-green"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+35. **Example of State county-by-county TN model** - https://jefferson-county-tn-coronavirus-response-jcgiscb.hub.arcgis.com/app/79afca92fb024131af8322da5fd6ee80 <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 
 # Epi Models <a name="epi"/>
 
