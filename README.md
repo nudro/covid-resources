@@ -137,6 +137,10 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 32. **1point3acres** - https://coronavirus.1point3acres.com/en - <img src="https://img.shields.io/badge/viz-dash-blue"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+33. **Smartphone data reveal which Americans are social distancing (and not)** - https://www.washingtonpost.com/technology/2020/03/24/social-distancing-maps-cellphone-location/, data available by UnaCast; data free for non-for-profit groups - https://www.unacast.com/covid19 <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
+34. **Covid Medical Radiology Datasets** https://github.com/ieee8023/covid-chestxray-dataset; https://github.com/lindawangg/COVID-Net by @lindawangg, and https://github.com/ieee8023/covid-chestxray-dataset by @ieee8023 <img src="https://img.shields.io/badge/dl-cv-green"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 
 # Epi Models <a name="epi"/>
 
@@ -240,6 +244,10 @@ by the research team in the CoronaTracker community and aims to predict and fore
 48. **CHIME (COVID-19 Hospital Impact Model for Epidemics) Application** - https://github.com/CodeForPhilly/chime - The CHIME (COVID-19 Hospital Impact Model for Epidemics) Application is designed to assist hospitals and public health officials with understanding hospital capacity needs as they relate to the COVID pandemic. CHIME enables capacity planning by providing estimates of total daily (i.e. new) and running totals of (i.e. census) inpatient hospitalizations, ICU admissions, and patients requiring ventilation. These estimates are generated using a SIR (Susceptible, Infected, Recovered) model, a standard epidemiological modeling technique. <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
 
 49. ***Mapping hospital demand: demographics, spatial variation, and the risk of “hospital deserts” during COVID-19 in England and Wales*** - https://osf.io/g8s96/?fbclid=IwAR1hnVIYboDrFL9aZqg-F2js7Bs4JxGf3GT_uYV4KUIApR4kAggP78jsdiE <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/-paper-brightgreen"></img>
+
+50. **FluTE, an influenza epidemic simulation model** - https://www.cs.unm.edu/~dlchao/flute/ - FluTE generates text output files, which can be easily processed with use-supplied scripts. In this example, we import the results from a US simulation into ArcGIS to generate a heatmap showing illness prevalence. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
+51. ***Chinazzi, Matteo, et al. "The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak." Science (2020).*** - https://science.sciencemag.org/content/sci/early/2020/03/05/science.aba9757.full.pdf?casa_token=oH5UDZMQnKoAAAAA:YOfrQGSjNkTOqVmgAjp-O4sbGbdS__ihgi_pr9y_O8E3QyVQlpcvoSkx1Oasp8sz3Ep6Qq49VdlJHzU - Motivated by the rapid spread of COVID-19 in Mainland China, we use a global metapopulation disease transmission model to project the impact of travel limitations on the national and international spread of the epidemic. The model is calibrated based on internationally reported cases, and shows that at the start of the travel ban from Wuhan on 23 January 2020, most Chinese cities had already received many infected travelers.  <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 # Link to Journals via Google Scholar <a name="journals"/>
 There are a variety of papers being published every day. Check out the below to keep up to date with the latest articles.
