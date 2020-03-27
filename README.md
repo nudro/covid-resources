@@ -17,6 +17,8 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 
 [Deep Learning Models](#dl)
 
+<img src="https://img.shields.io/badge/-NEW-yellow"></img> badges refer to new as of this week. The most recent updates are at the bottom of the enumerated list.
+
 
 # Datasets <a name="datasets"/>
 
@@ -143,7 +145,7 @@ Maps, Descriptive Charts, Dashboards<pr>
 
 33. **Example of State county-by-county TN model** - https://jefferson-county-tn-coronavirus-response-jcgiscb.hub.arcgis.com/app/79afca92fb024131af8322da5fd6ee80 <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
-34. **Skyris Odin-Covid19** - https://odin-covid19.com/ Welcome to our ODIN Lite access portal providing data from around the globe related to the currently emerging COVID-19 infectious disease. This data is fully identified and processed using Artificial Intelligence and Natural Language Processing to provide a better understanding of the effects and scope of the disease. This portal provides a very basic, scaled down version of our standard ODIN portal to facilitate free and open access to as many users as might need this data. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+34. **Skyris Odin-Covid19** - https://odin-covid19.com/ Welcome to our ODIN Lite access portal providing data from around the globe related to the currently emerging COVID-19 infectious disease. This data is fully identified and processed using Artificial Intelligence and Natural Language Processing to provide a better understanding of the effects and scope of the disease. This portal provides a very basic, scaled down version of our standard ODIN portal to facilitate free and open access to as many users as might need this data. <img src="https://img.shields.io/badge/-NEW-yellow"></img> <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
 
 
 # Epi Models <a name="epi"/>
@@ -253,7 +255,7 @@ by the research team in the CoronaTracker community and aims to predict and fore
 
 51. ***Chinazzi, Matteo, et al. "The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak." Science (2020).*** - https://science.sciencemag.org/content/sci/early/2020/03/05/science.aba9757.full.pdf?casa_token=oH5UDZMQnKoAAAAA:YOfrQGSjNkTOqVmgAjp-O4sbGbdS__ihgi_pr9y_O8E3QyVQlpcvoSkx1Oasp8sz3Ep6Qq49VdlJHzU - Motivated by the rapid spread of COVID-19 in Mainland China, we use a global metapopulation disease transmission model to project the impact of travel limitations on the national and international spread of the epidemic. The model is calibrated based on internationally reported cases, and shows that at the start of the travel ban from Wuhan on 23 January 2020, most Chinese cities had already received many infected travelers.  <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
-52. 34. **Covid Act Now** - https://covidactnow.org/ - CovidActNow.org was created by a team of data scientists, engineers, and designers in partnership with epidemiologists, public health officials, and political leaders to help understand how the COVID-19 pandemic will affect their region. CoVidActNow was founded by Max Henderson, Rep Jonathan Kreiss-Tomkins, Igor Kofman, and Zack Rosen, with medical and policy guidance from Nirav R. Shah (MD, MPH, senior scholar, Stanford University Clinical Excellence Research Center). <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+52. **Covid Act Now** - https://covidactnow.org/ - CovidActNow.org was created by a team of data scientists, engineers, and designers in partnership with epidemiologists, public health officials, and political leaders to help understand how the COVID-19 pandemic will affect their region. CoVidActNow was founded by Max Henderson, Rep Jonathan Kreiss-Tomkins, Igor Kofman, and Zack Rosen, with medical and policy guidance from Nirav R. Shah (MD, MPH, senior scholar, Stanford University Clinical Excellence Research Center). <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 # Link to Journals via Google Scholar <a name="journals"/>
 There are a variety of papers being published every day. Check out the below to keep up to date with the latest articles.
@@ -300,3 +302,4 @@ There are a variety of papers being published every day. Check out the below to 
 **Thanks**:<pr>
 - Badges made using https://shields.io/
 - References: Google Scholar, JHU, Midas, Multiple Twitter Accounts
+- Recommendations from LinkedIn and Twitter
