@@ -63,6 +63,8 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 
 18. **Covid Medical Radiology Datasets** https://github.com/ieee8023/covid-chestxray-dataset; https://github.com/lindawangg/COVID-Net by @lindawangg, and https://github.com/ieee8023/covid-chestxray-dataset by @ieee8023 <img src="https://img.shields.io/badge/dl-cv-green"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
+19. **New York Times Coronavirus (Covid-19) Data in the United States** - https://github.com/nytimes/covid-19-data - The New York Times is releasing a series of data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. We are compiling this time series data from state and local governments and health departments in an attempt to provide a complete record of the ongoing outbreak. We have used this data to power our maps and reporting tracking the outbreak, and it is now being made available to the public in response to requests from researchers, scientists and government officials who would like access to the data to better understand the outbreak. The data begins with the first reported coronavirus case in Washington State on Jan. 21, 2020. We will publish regular updates to the data in this repository.<img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 # Visualizations <a name="visualizations"/>
 Maps, Descriptive Charts, Dashboards<pr>
 
