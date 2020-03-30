@@ -92,31 +92,56 @@ Maps, Descriptive Charts, Dashboards<pr>
 7.  **New York Times/Lai R KK, et al., Coronavirus Map: Tracking the Global Outbreak** - https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
 8.   **European Centre for Disease Prevention and Control**, https://darwinanddavis.github.io/worldmaps/coronavirus.html (Github: https://github.com/darwinanddavis/worldmaps) <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
 9.   **University of Virginia - COVID-19 Surveillance Dashboard**, http://ncov.bii.virginia.edu/dashboard/ <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
 10.   **University of Virginia  - COVID-19 Cases and Clusters Outside of China**, https://datastudio.google.com/u/0/reporting/f6ad0988-f203-45f8-8d18-5d726c1d2d8b/page/MGzDB <img src="https://img.shields.io/badge/viz-dash-blue"></img>
-11.    **University of Washington HGIS Lab** - https://hgis.uw.edu/virus/ (Github: https://github.com/jakobzhao/virus)<img src="https://img.shields.io/badge/viz-dash-blue"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
-12.     **nCov2019 for studying COVID-19 coronavirus outbreak**, Tianzhi Wu, Erqiang Hu, Patrick Tung, Xijin Ge, Guangchuang Yu - nCov2019: An R package with real-time data, historical data and Shiny app (https://guangchuangyu.github.io/nCov2019/) <img src="https://img.shields.io/badge/library-R-blue"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
-13.      **Dipartimento della Protezione Civile COVID-19 Italia - Monitoraggio della situazione** - http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1 <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
-14.      **Esri Story Map Mapping the novel coronavirus outbreak** - https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0 <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
-15.       **World Health Organization. Novel coronavirus (COVID-19) situation (public dashboard)** - https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667 <img src="https://img.shields.io/badge/viz-dash-blue"></img>
-16.        **Crowdsourced Google Map by covid-2019 Reddit Map Community** - https://www.google.com/maps/d/u/0/viewer?mid=1yCPR-ukAgE55sROnmBUFmtLN6riVLTu3&ll=30.359193252484147%2C0&z=2
+
+11. **University of Washington HGIS Lab** - https://hgis.uw.edu/virus/ (Github: https://github.com/jakobzhao/virus)<img src="https://img.shields.io/badge/viz-dash-blue"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
+
+12. **nCov2019 for studying COVID-19 coronavirus outbreak**, Tianzhi Wu, Erqiang Hu, Patrick Tung, Xijin Ge, Guangchuang Yu - nCov2019: An R package with real-time data, historical data and Shiny app (https://guangchuangyu.github.io/nCov2019/) <img src="https://img.shields.io/badge/library-R-blue"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
+
+13.**Dipartimento della Protezione Civile COVID-19 Italia - Monitoraggio della situazione** - http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1 <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
+
+14. **Esri Story Map Mapping the novel coronavirus outbreak** - https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0 <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
+
+15.**World Health Organization. Novel coronavirus (COVID-19) situation (public dashboard)** - https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667 <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
+16.**Crowdsourced Google Map by covid-2019 Reddit Map Community** - https://www.google.com/maps/d/u/0/viewer?mid=1yCPR-ukAgE55sROnmBUFmtLN6riVLTu3&ll=30.359193252484147%2C0&z=2
 <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/sm-reddit-red"></img>
-17.  **COVID19 Infodemics Observatory** - https://covid19obs.fbk.eu/, CoMuNe Labs <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
+17.**COVID19 Infodemics Observatory** - https://covid19obs.fbk.eu/, CoMuNe Labs <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
 18. **Bing COVID Tracker** - https://www.bing.com/covid <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
 19. **E-Tracking map of the #CoViD19 in Africa** - http://umap.openstreetmap.fr/fr/map/e-tracking-map-of-the-covid19-in-africa_411333#3/10.13/45.34 <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
+
 20. **Vox - 11 coronavirus pandemic charts** - https://www.vox.com/future-perfect/2020/3/12/21172040/coronavirus-covid-19-virus-charts <img src="https://img.shields.io/badge/-charts-yellow"></img>
+
 21. **Early Alert** - https://early-alert.maps.arcgis.com/apps/opsdashboard/index.html#/20bfbf89c8e74c0494c90b1ae0fa7b78 <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
 22. **EpiRisk** -  <a href="http://epirisk.net/#eyJxdWVyeSI6eyJ0cmF2ZWxMZXZlbCI6MSwicGVyaW9kIjoxMCwidG90YWxDYXNlcyI6MzEyMDAsImRpc3RyaWJ1dGlvbk1vZGUiOiJ1bmlmb3JtIiwibW9udGgiOiJKYW4iLCJnZW9MZXZlbCI6ImJhc2luIiwic291cmNlcyI6W3siaWQiOjQ3NywiY2FzZXMiOjF9XX0sIm1hcCI6eyJjZW50ZXIiOlsxNDguMzUxMDAyNzk3Mzk1NzIsMzEuOTYyMDM3NzEzMjQ4MzM2XSwiem9vbSI6MiwicGl0Y2giOjAsImJlYXJpbmciOjB9fQ==">link here</a> <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
 23. **WorldoMeters**- https://www.worldometers.info/coronavirus/ <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-timeline-yellow"></img>
+
 24. **Covid2019app Live Site** - https://covid2019app.live/ <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/data-global-yellowgreen"></img>
+
 25. **Here’s how coronavirus spreads on a plane—and the safest place to sit** - https://www.nationalgeographic.com/science/2020/01/how-coronavirus-spreads-on-a-plane/ <img src="https://img.shields.io/badge/-charts-yellow"></img>
+
 26. **How Much Worse the Coronavirus Could Get, in Charts**-  https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html, By Nicholas Kristof and Stuart A. Thompson <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/viz-simul-yellow"></img>
+
 27. **COVID-19 Mobility Monitoring project,  ISI Foundation and Cuebiq** - https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html  <img src="https://img.shields.io/badge/data-global-yellowgreen"></img> <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-charts-yellow"></img>
+
 28. **How the Virus Got Out** - <a href="https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html?action=click&amp;auth=login-google1tap&amp;login=google1tap&amp;module=Spotlight&amp;pgtype=Homepage">link here</a> <img src="https://img.shields.io/badge/viz-simul-yellow"></img>
+
 29. **COVID-19 Scenarios** - https://neherlab.org/covid19/?fbclid=IwAR3yjOLs7zCdT7mI_OpBiB1-1Kgaz1-V8MqpBQZE6dMFiXC46d-8UWUOEQc
+
 30. **An interactive visualization of the exponential spread of COVID-19** A project to explore the global growth of COVID-19. Updated daily. Inspired by the work of John Burn-Murdoch. - http://91-divoc.com/pages/covid-visualization/
+
 31. **1point3acres** - https://coronavirus.1point3acres.com/en - <img src="https://img.shields.io/badge/viz-dash-blue"></img>
+
 32. **Example of State county-by-county TN model** - https://jefferson-county-tn-coronavirus-response-jcgiscb.hub.arcgis.com/app/79afca92fb024131af8322da5fd6ee80  <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
+
 33. **Skyris Odin-Covid19** - https://odin-covid19.com/ Welcome to our ODIN Lite access portal providing data from around the globe related to the currently emerging COVID-19 infectious disease. This data is fully identified and processed using Artificial Intelligence and Natural Language Processing to provide a better understanding of the effects and scope of the disease. This portal provides a very basic, scaled down version of our standard ODIN portal to facilitate free and open access to as many users as might need this data.  <img src="https://img.shields.io/badge/viz-map-brightgreen"></img>
+
 34. **Covid19 Healthcare Projections*** by University Washington IHME - https://covid19.healthdata.org/projections, The charts below show projected hospital resource use based on COVID-19 deaths. Downloadable data. <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 
