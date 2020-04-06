@@ -132,7 +132,9 @@ Maps, Descriptive Charts, Dashboards<pr>
 38. **COVID-19 Global Economic Impact** on Online Retail Emarsys created this platform to help and guide our customers, partners, and the business community by drawing from online engagement data of more than one billion consumers worldwide, interacting with approximately 2500 brands to provide an up-to-date view and trends of the economic impact of the COVID-19 pandemic on online retailershttps://ccinsight.org/  <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 39. **Coronavirus Interactive Dashboard (Tweaked) on Google Data Studio** - https://www.gohkokhan.com/corona-virus-interactive-dashboard-tweaked/  <img src="https://img.shields.io/badge/viz-dash-blue"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 40. **Government of Canada** Coronavirus disease (COVID-19): Outbreak update https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/data-global-yellowgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
-
+41. **Covid vs. US Daily Average Cause of Death" by Flourish - https://public.flourish.studio/visualisation/1712761/ <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+42. **Bay Area Counties - Bay Area COVID-19 Cases** - https://www.stanforddaily.com/2020/03/24/visualized-covid-19-cases-in-santa-clara-county/
+<img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 # Epi Models Code <a name="epi"/>
 
