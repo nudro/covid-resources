@@ -133,8 +133,9 @@ Maps, Descriptive Charts, Dashboards<pr>
 39. **Coronavirus Interactive Dashboard (Tweaked) on Google Data Studio** - https://www.gohkokhan.com/corona-virus-interactive-dashboard-tweaked/  <img src="https://img.shields.io/badge/viz-dash-blue"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 40. **Government of Canada** Coronavirus disease (COVID-19): Outbreak update https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/data-global-yellowgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 41. **Covid vs. US Daily Average Cause of Death" by Flourish - https://public.flourish.studio/visualisation/1712761/ <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
-42. **Bay Area Counties - Bay Area COVID-19 Cases** - https://www.stanforddaily.com/2020/03/24/visualized-covid-19-cases-in-santa-clara-county/
-<img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+42. **Bay Area Counties - Bay Area COVID-19 Cases** - https://www.stanforddaily.com/2020/03/24/visualized-covid-19-cases-in-santa-clara-county/<img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+43. **Covidcounties.org** - https://covidcounties.org/ The Butte Lab at UCSF has partnered with Paul Bleicher MD, PhD, former CEO of OptumLabs, to calculate and visualize COVID-19 statistics for every county in the United States. <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
+
 
 # Epi Models Code <a name="epi"/>
 
