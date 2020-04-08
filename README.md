@@ -136,7 +136,8 @@ Maps, Descriptive Charts, Dashboards<pr>
 42. **Bay Area Counties - Bay Area COVID-19 Cases** - https://www.stanforddaily.com/2020/03/24/visualized-covid-19-cases-in-santa-clara-county/<img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 43. **Covidcounties.org** - https://covidcounties.org/ The Butte Lab at UCSF has partnered with Paul Bleicher MD, PhD, former CEO of OptumLabs, to calculate and visualize COVID-19 statistics for every county in the United States. <img src="https://img.shields.io/badge/-charts-yellow"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 44. **COVID-19 Community Mobility Reports** - https://www.google.com/covid19/mobility/ - These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. <img src="https://img.shields.io/badge/-NEW-yellow"></img>
-
+45. **Coronavirus in the United States: Mapping the COVID-19 outbreak in the states and counties** https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/ Use these maps to track the COVID-19 outbreak coast to coast. Follow US counties to see cases on a local level, including confirmed cases and deaths.
+ <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 
 # Epi Models Code <a name="epi"/>
 
