@@ -11,6 +11,8 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 
 [Genomic Datasets](#genomic)
 
+[Tools](#tools)
+
 [Visualizations](#visualizations)
 
 [Epi Models Code](#epi)
@@ -68,6 +70,11 @@ This is an attempt to aggregate as many covid-19 analytical resources online. Ra
 6.   **Genomic epidemiology of hCoV-19** - https://www.gisaid.org/epiflu-applications/next-hcov-19-app/ - Showing 838 of 838 genomes sampled between Dec 2019 and Mar 2020.| GISAID <img src="https://img.shields.io/badge/data-genome-red"></img>
 7.  **Innophore protein modeling** https://innophore.com/2019-ncov/ - Validating the protease sequence | Innophore <img src="https://img.shields.io/badge/data-genome-red"></img>
 8.   **Wuhan coronavirus 2019-nCoV protease homology model** - https://3dprint.nih.gov/discover/3DPX-012867|  - Homolgy model by Phyre2 of the Wuhan coronavirus 2019-nCoV protease, https://innophore.com/2019-ncov From a PDB file in the PyMol session linked in that article.| NIH <img src="https://img.shields.io/badge/data-genome-red"></img>
+
+# Tools <a name="tools"/>
+Search engines, Tools<pr>
+ 1. **DISCOVER COVID** - https://discovid.ai/search In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19), which contains over 57,000 scholarly articles about COVID-19 and related coronaviruses. In a call to action, the world's artificial intelligence experts have been asked to develop text and data mining tools that can help the medical community keep up with the rapid increase in literature. So, that’s what we did! Our search engine assists researchers to easily browse through the latest literature, explore related articles and thus helps to discover new avenues for research. We apply a machine learning approach called topic modeling, that helps us discover underlying topics in the whole set of publications. Each paper can then be seen as a mixture of these topics. This allows us to find related papers with a similar topic-mixture (Daniel Wolffram).
+ 
 
 # Visualizations <a name="visualizations"/>
 Maps, Descriptive Charts, Dashboards<pr>
@@ -139,7 +146,7 @@ Maps, Descriptive Charts, Dashboards<pr>
 45. **Coronavirus in the United States: Mapping the COVID-19 outbreak in the states and counties** https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/ Use these maps to track the COVID-19 outbreak coast to coast. Follow US counties to see cases on a local level, including confirmed cases and deaths.
 46. **Google News** Coronavirus stats, news, maps - https://news.google.com/covid19/map?hl=en-US&gl=US&ceid=US:en <img src="https://img.shields.io/badge/viz-map-brightgreen"></img> <img src="https://img.shields.io/badge/-NEW-yellow"></img>
 47. **NPR** https://www.npr.org/sections/health-shots/2020/03/16/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s <img src="https://img.shields.io/badge/-charts-yellow"></img>  <img src="https://img.shields.io/badge/-NEW-yellow"></img>
-
+29. **COVID-19 LITERATURE CLUSTERING** Given the large number of literature and the rapid spread of COVID-19, it is difficult for health professionals to keep up with new information on the virus. Can clustering similar research articles together simplify the search for related publications? How can the content of the clusters be qualified? By using clustering for labelling in combination with dimensionality reduction for visualization, the collection of literature can be represented by a scatter plot. On this plot, publications of highly similar topic will share a label and will be plotted near each other. In order, to find meaning in the clusters, topic modelling will be performed to find the keywords of each cluster. This project is done for Kaggle's COVID-19 Open Research Dataset Challenge (CORD-19). https://maksimekin.github.io/COVID19-Literature-Clustering/plots/t-sne_covid-19_interactive.html (no code)
 
 # Epi Models Code <a name="epi"/>
 
@@ -171,7 +178,6 @@ Maps, Descriptive Charts, Dashboards<pr>
 26. **FluTE, an influenza epidemic simulation model** - https://www.cs.unm.edu/~dlchao/flute/ - FluTE generates text output files, which can be easily processed with use-supplied scripts. In this example, we import the results from a US simulation into ArcGIS to generate a heatmap showing illness prevalence. <img src="https://img.shields.io/badge/viz-simul-yellow"></img>
 27. **CDC Forecasting - Overview of Models** Intervention assumptions and methods for a variety of published, well-known deterministic models. (no code) https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html <img src="https://img.shields.io/badge/-NEW-yellow"></img> 
 28. **FiveThirtyEight** Where The Latest COVID-19 Models Think We're Headed — And Why They Disagree https://projects.fivethirtyeight.com/covid-forecasts/ (no code)<img src="https://img.shields.io/badge/-NEW-yellow"></img>
-29. **COVID-19 LITERATURE CLUSTERING** Given the large number of literature and the rapid spread of COVID-19, it is difficult for health professionals to keep up with new information on the virus. Can clustering similar research articles together simplify the search for related publications? How can the content of the clusters be qualified? By using clustering for labelling in combination with dimensionality reduction for visualization, the collection of literature can be represented by a scatter plot. On this plot, publications of highly similar topic will share a label and will be plotted near each other. In order, to find meaning in the clusters, topic modelling will be performed to find the keywords of each cluster. This project is done for Kaggle's COVID-19 Open Research Dataset Challenge (CORD-19). https://maksimekin.github.io/COVID19-Literature-Clustering/plots/t-sne_covid-19_interactive.html (no code)<img src="https://github.com/MaksimEkin/COVID19-Literature-Clustering/blob/master/cover/bokeh_plot.png"></img>
 
 # Papers (Some with Code) <a name="papers"/>
  1. **Raw data in Wuhan, Hubei, and Guangzhou for serious COVID-19 cases, and Wuhan hospitalization data** - https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data for *Ruoran, Li, Caitlin Rivers, Qi Tan, Megan B Murray, Eric Toner, and Marc Lipsitch. The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities (March 2020).* https://dash.harvard.edu/handle/1/42599304; data at https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data <img src="https://img.shields.io/badge/data-published-9cf"></img> <img src="https://img.shields.io/badge/-paper-brightgreen"></img> <img src="https://img.shields.io/badge/sm-thread-blue"></img> <img src="https://img.shields.io/badge/-withcode-red"></img>
